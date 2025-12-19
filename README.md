@@ -29,8 +29,6 @@
 
 ### 🧠 About Me
 
-### 🧠 About Me
-
 ```bash
 [ system.boot() ]
 
@@ -59,7 +57,7 @@ Design intelligent systems that solve real-world problems,
 scale reliably, and actually get used.
 
 [ system.ready() ]
-
+```
 
 ---
 
