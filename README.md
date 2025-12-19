@@ -1,6 +1,10 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&duration=3000&pause=10000000&color=FF1662DA&center=true&width=435&lines=++Hey%2C+I'm+Harsh+Singh)](https://git.io/typing-svg)
+
+<p align="center">
+    <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&duration=3003&pause=400&color=FF1662DA&width=435&lines=AI%2FML+Engineer;Data+Engineer;Problem+Solver)](https://git.io/typing-svg)" />
+</p>
 </div>
 
 ---
