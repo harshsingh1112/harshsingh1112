@@ -143,7 +143,9 @@ Real-time AI-based identity verification for secure onboarding
 - 🔐 Automated KYC workflow with interactive Streamlit UI  
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 #### 🎥 Video Captioning & Scene Analysis Tool  
