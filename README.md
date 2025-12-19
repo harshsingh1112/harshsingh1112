@@ -267,5 +267,5 @@ Developer portfolio showcasing projects, skills, and experience
 
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thank%20you%20for%20visiting&section=footer&descAlign=60&descSize=50"/>
+  <img src="https://capsule-render.vercel.app/apitype=waving&height=150&color=gradient&text=Thank%20you%20for%20visiting&section=footer&descAlign=60&descSize=50&textBg=false&animation=fadeIn"/>
 </p>
