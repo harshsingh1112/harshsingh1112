@@ -115,7 +115,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🔒 AI Crime Detection System
 Real-time CCTV surveillance with intelligent threat detection
@@ -129,7 +129,6 @@ Real-time CCTV surveillance with intelligent threat detection
 - 🏆 **Special Jury Mention** at National Hackathon
 
 </td>
-<td width="50%" valign="top">
 
 #### 🪪 KYC Identity Verification System  
 Real-time AI-based identity verification for secure onboarding  
