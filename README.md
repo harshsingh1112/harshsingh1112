@@ -256,9 +256,7 @@ Developer portfolio showcasing projects, skills, and experience
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshsingh1112)
 
 </div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thank%20you%20for%20visiting&section=footer"/>
-</p>
+
 ---
 
 <div align="center">
@@ -268,3 +266,6 @@ Developer portfolio showcasing projects, skills, and experience
 **💡 Open to collaboration on AI/ML projects and innovative solutions**
 
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thank%20you%20for%20visiting&section=footer&descAlign=60&descSize=50"/>
+</p>
