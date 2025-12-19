@@ -111,8 +111,24 @@
 
 ---
 
+### 🚀 Featured Projects
+
 <table>
 <tr>
+<td width="50%">
+
+#### 🔒 AI Crime Detection System
+Real-time CCTV surveillance with intelligent threat detection
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+- 🎯 YOLOv8 object detection pipeline for crime recognition
+- 🔴 Real-time streaming via Flask API
+- 🏆 **Special Jury Mention** at National Hackathon
+
+</td>
 <td width="50%" valign="top">
 
 #### 🪪 KYC Identity Verification System  
