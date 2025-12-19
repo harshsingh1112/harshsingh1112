@@ -144,6 +144,8 @@ Real-time AI-based identity verification for secure onboarding
 - 🔐 Automated KYC workflow with interactive Streamlit UI  
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 🎥 Video Captioning & Scene Analysis Tool  
@@ -158,6 +160,8 @@ Multimodal video understanding using vision-language models
 - ⚡ Optimized inference pipeline for faster processing  
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 🌐 Personal Portfolio Website  
@@ -174,6 +178,7 @@ Developer portfolio showcasing projects, skills, and experience
 
 </td>
 </tr>
+<tr>
 </table>
 
 ---
