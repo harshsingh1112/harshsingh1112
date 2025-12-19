@@ -5,11 +5,12 @@
   />
 </p>
 <p align="center">
-  <img 
-    src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&size=25&duration=3003&pause=300&color=E9145ADA&center=true&width=435&lines=AI%2FML+Engineer;Data+Engineer;Problem+Solver)](https://git.io/typing-svg)"
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=25&duration=3003&pause=300&color=E9145A&center=true&width=435&lines=AI%2FML+Engineer;Data+Engineer;Problem+Solver"
     alt="Typing SVG"
   />
 </p>
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://linkedin.com/in/harshsingh11">
