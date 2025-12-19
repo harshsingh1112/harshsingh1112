@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20there&reversal=false&animation=fadeIn"/>
+</p>
+
+<p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&duration=3000&pause=10000000&color=FF1662&center=true&width=435&lines=Hey%2C+I'm+Harsh+Singh"
     alt="Typing SVG"
