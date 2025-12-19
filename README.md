@@ -117,18 +117,20 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 🔒 AI Crime Detection System
-Real-time CCTV surveillance with intelligent threat detection
+#### 🔒 AI Crime Detection System  
+Real-time CCTV surveillance with intelligent threat detection  
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-- 🎯 YOLOv8 object detection pipeline for crime recognition
-- 🔴 Real-time streaming via Flask API
-- 🏆 **Special Jury Mention** at National Hackathon
+- 🎯 YOLOv8-based object detection for crime recognition  
+- 🔴 Real-time CCTV streaming via Flask API  
+- 🏆 Special Jury Mention at National Hackathon  
 
 </td>
+
+<td width="50%" valign="top">
 
 #### 🪪 KYC Identity Verification System  
 Real-time AI-based identity verification for secure onboarding  
@@ -140,7 +142,7 @@ Real-time AI-based identity verification for secure onboarding
 
 - 🧠 Face detection and verification using YOLOv8 and DeepFace  
 - 📷 Real-time webcam capture and identity matching  
-- 🔐 Automated KYC workflow with interactive Streamlit UI  
+- 🔐 End-to-end automated KYC workflow  
 
 </td>
 </tr>
@@ -155,14 +157,12 @@ Multimodal video understanding using vision-language models
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![BLIP2](https://img.shields.io/badge/BLIP2-6A5ACD?style=flat-square&logo=ai&logoColor=white)
 
-- 📝 Automatic caption generation from video frames  
+- 📝 Automatic video-to-text caption generation  
 - 🎬 Scene-level semantic understanding and tagging  
-- ⚡ Optimized inference pipeline for faster processing  
+- ⚡ Optimized inference for faster processing  
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 #### 🌐 Personal Portfolio Website  
@@ -173,19 +173,14 @@ Developer portfolio showcasing projects, skills, and experience
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MDX](https://img.shields.io/badge/MDX-000000?style=flat-square&logo=markdown&logoColor=white)
 
-- 🧩 TypeScript-first architecture for maintainable code  
-- 🎨 Responsive design with clean UI components  
+- 🧩 TypeScript-first architecture for maintainability  
+- 🎨 Clean, responsive UI with modern design  
 - 🚀 Fast load times and SEO-friendly structure  
-
-</td>
-
-<td width="50%" valign="top">
-
-<!-- Empty cell for future project -->
 
 </td>
 </tr>
 </table>
+
 
 
 ---
