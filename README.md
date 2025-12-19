@@ -11,32 +11,11 @@
   />
 </p>
 <!-- Social icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshsingh11">
-  <img width="32px" alt="LinkedIn" title="LinkedIn"
-       src="https://i.imgur.com/yRpa1dQ.png"/>
-</a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
 
-<a href="https://www.instagram.com/darkisticharsh/">
-  <img width="32px" alt="Instagram" title="Instagram"
-       src="https://i.imgur.com/6dE2R8N.png"/>
-</a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
-
-<a href="https://harsh-singh.vercel.app">
-  <img width="32px" alt="Portfolio" title="Portfolio"
-       src="https://i.imgur.com/8Km9tLL.png"/>
-</a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
-
-<a href="mailto:harshsingh34418@gmail.com">
-  <img width="32px" alt="Email" title="Email"
-       src="https://i.imgur.com/0XGQZ0P.png"/>
-</a>
-</p>
-
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshsingh11)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh-singh.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshsingh34418@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshsingh1112)
 
 ### 🧠 About Me
 
