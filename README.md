@@ -111,32 +111,16 @@
 
 ---
 
-### 🚀 Featured Projects
-
 <table>
 <tr>
-<td width="50%">
-
-#### 🔒 AI Crime Detection System
-Real-time CCTV surveillance with intelligent threat detection
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-- 🎯 YOLOv8 object detection pipeline for crime recognition
-- 🔴 Real-time streaming via Flask API
-- 🏆 **Special Jury Mention** at National Hackathon
-
-</td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🪪 KYC Identity Verification System  
 Real-time AI-based identity verification for secure onboarding  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=ultralytics&logoColor=white)  
-![DeepFace](https://img.shields.io/badge/DeepFace-0A66C2?style=flat-square&logo=opencv&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=ultralytics&logoColor=white)
+![DeepFace](https://img.shields.io/badge/DeepFace-0A66C2?style=flat-square&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 - 🧠 Face detection and verification using YOLOv8 and DeepFace  
@@ -144,15 +128,14 @@ Real-time AI-based identity verification for secure onboarding
 - 🔐 Automated KYC workflow with interactive Streamlit UI  
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 #### 🎥 Video Captioning & Scene Analysis Tool  
 Multimodal video understanding using vision-language models  
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![BLIP2](https://img.shields.io/badge/BLIP2-6A5ACD?style=flat-square&logo=ai&logoColor=white)
 
 - 📝 Automatic caption generation from video frames  
@@ -161,15 +144,16 @@ Multimodal video understanding using vision-language models
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🌐 Personal Portfolio Website  
 Developer portfolio showcasing projects, skills, and experience  
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MDX](https://img.shields.io/badge/MDX-000000?style=flat-square&logo=markdown&logoColor=white)
 
 - 🧩 TypeScript-first architecture for maintainable code  
@@ -177,9 +161,15 @@ Developer portfolio showcasing projects, skills, and experience
 - 🚀 Fast load times and SEO-friendly structure  
 
 </td>
+
+<td width="50%" valign="top">
+
+<!-- Empty cell for future project -->
+
+</td>
 </tr>
-<tr>
 </table>
+
 
 ---
 
