@@ -10,8 +10,33 @@
     alt="Typing SVG"
   />
 </p>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshsingh11">
+  <img width="32px" alt="LinkedIn" title="LinkedIn"
+       src="https://i.imgur.com/yRpa1dQ.png"/>
+</a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
 
----
+<a href="https://www.instagram.com/darkisticharsh/">
+  <img width="32px" alt="Instagram" title="Instagram"
+       src="https://i.imgur.com/6dE2R8N.png"/>
+</a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+
+<a href="https://harsh-singh.vercel.app">
+  <img width="32px" alt="Portfolio" title="Portfolio"
+       src="https://i.imgur.com/8Km9tLL.png"/>
+</a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+
+<a href="mailto:harshsingh34418@gmail.com">
+  <img width="32px" alt="Email" title="Email"
+       src="https://i.imgur.com/0XGQZ0P.png"/>
+</a>
+</p>
+
+<br/>
 
 ### 🧠 About Me
 
