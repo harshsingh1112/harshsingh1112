@@ -4,7 +4,6 @@
     alt="Typing SVG"
   />
 </p>
-
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Google+Sans&duration=3003&pause=300&color=FF1662&center=true&width=435&lines=AI%2FML+Engineer;Data+Engineer;Problem+Solver"
