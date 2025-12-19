@@ -31,21 +31,31 @@
 
 [ system.boot() ]
 
-> Loading profile............. ✔
-> Initializing curiosity...... ✔
-> Connecting to creativity.... ✔
+> Loading profile................ ✔
+> Initializing curiosity......... ✔
+> Connecting to creativity....... ✔
 > Status: ONLINE 🚀
+
+----------------------------------
 
 Name        : Harsh Singh
 Role        : Computer Science Student
-Focus       : AI / ML • Data Engineering • Problem Solver
-Experience  : Artificial Intelligenace • Data Science • ML Pipelines • Computer Vision • Cloud Systems
+Focus       : AI / ML • Data Engineering • Problem Solving
+Experience  :
+  - Artificial Intelligence
+  - Data Science
+  - ML Pipelines
+  - Computer Vision
+  - Cloud Systems
+
+----------------------------------
 
 Mission:
 Design intelligent systems that solve real-world problems,
 scale reliably, and actually get used.
 
 [ system.ready() ]
+
 
 ---
 
