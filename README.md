@@ -29,6 +29,9 @@
 
 ### 🧠 About Me
 
+### 🧠 About Me
+
+```bash
 [ system.boot() ]
 
 > Loading profile................ ✔
@@ -36,11 +39,12 @@
 > Connecting to creativity....... ✔
 > Status: ONLINE 🚀
 
-----------------------------------
+--------------------------------------------------
 
 Name        : Harsh Singh
 Role        : Computer Science Student
 Focus       : AI / ML • Data Engineering • Problem Solving
+
 Experience  :
   - Artificial Intelligence
   - Data Science
@@ -48,7 +52,7 @@ Experience  :
   - Computer Vision
   - Cloud Systems
 
-----------------------------------
+--------------------------------------------------
 
 Mission:
 Design intelligent systems that solve real-world problems,
